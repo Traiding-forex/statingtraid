@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.945" height="16" viewBox="0 0 60.945 16">
+  <g id="Group_3" data-name="Group 3" transform="translate(0.395)">
+    <text id="Menu" transform="translate(19.55)" fill="#00a24c" font-size="16" font-family="Helvetica"><tspan x="0" y="12">Menu</tspan></text>
+    <path id="Line" d="M0,0,8.556,8.556" transform="translate(0.772 2.772)" fill="none" stroke="#00a24c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.65"/>
+    <path id="Line-2" data-name="Line" d="M0,8.556,8.556,0" transform="translate(0.772 2.772)" fill="none" stroke="#00a24c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.65"/>
+  </g>
+</svg>
